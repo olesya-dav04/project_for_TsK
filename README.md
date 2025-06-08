@@ -35,3 +35,5 @@ cd project_for_TsK
 pip install -r requirements.txt
 streamlit run app.py
 ```
+## Запись работы
+В папке [ZAPIS](https://github.com/olesya-dav04/project_for_TsK/tree/main/ZAPIS)
